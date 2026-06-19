@@ -1,0 +1,15 @@
+{
+  "fmt": {
+    "semiColons": true,
+    "indentWidth": 2,
+    "lineWidth": 100,
+    "proseWrap": "preserve",
+    "singleQuote": false,
+    "useTabs": false
+  },
+  "lint": {
+    "rules": {
+      "include": ["eqeqeq"]
+    }
+  }
+}
