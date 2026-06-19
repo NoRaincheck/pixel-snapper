@@ -1,5 +1,7 @@
 # Sprite Fusion Pixel Snapper - Python Binding
 
+![PyPI - Version](https://img.shields.io/pypi/v/pixel-snapper)
+
 A Python binding for
 [Pixel Snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) by
 [Hugo Duprez](https://www.hugoduprez.com/). Snap pixels to a perfect grid -
